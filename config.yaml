@@ -39,7 +39,7 @@ params:
   description: "Personal website for Michalis Zouvelos, containing blogs and materials related to data science, analytics and ML."
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  favicon: /img/favicon.ico
+  favicon: 
   headingFontFamily: sans-serif
   mainSections:
   navallcaps: yes
@@ -52,9 +52,6 @@ params:
     - icon: linkedin
       icon_pack: fab
       url: https://www.linkedin.com/in/michalis-zouvelos-8912371b6/
-    - icon: kaggle
-      icon_pack: fab
-      url: https://www.kaggle.com/michalisz
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
@@ -74,26 +71,10 @@ menu:
       title: About
       url: /
       weight: 1
-    - name: Talks
-      title: Talks
-      url: /talks/
-      weight: 2
-    - name: Portfolio
-      title: Portfolio
-      url: /portfolio/
-      weight: 3
     - name: Blog
       title: Blog
       url: /blog/
-      weight: 4
-    - name: Links
-      title: Links
-      url: /links/
-      weight: 5
-    - name: Search
-      title: Search
-      url: /search/
-      weight: 6
+      weight: 2
 privacy:
   disqus:
     disable: no
