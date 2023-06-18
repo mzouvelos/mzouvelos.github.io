@@ -44,10 +44,7 @@ params:
   mainSections:
   navallcaps: yes
   orgLocal:
-  orgName: Nicola Rennie
-  twitter: nrennie35
-  sharing_image: [img/preview_card.png]
-  image: [img/preview_card.png]
+  orgName: Michalis Zouvelos
   social:
     - icon: github
       icon_pack: fab
