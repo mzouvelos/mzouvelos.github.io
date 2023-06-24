@@ -1,18 +1,22 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
-images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
-show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
+action_label: CV
+action_link: 
+action_type: button
+show_action_link2: true2
+action_label2: Publications
+action_link2: 
+description: "Michalis Zouvelos is a Data Scientist with a focus on Analytics and Machine Learning."
+image_left: false
+images:
+- 
+show_social_links: true
+subtitle: Data Science & Analytics
+text_align_left: false
+title: Michalis Zouvelos
 type: home
+outputs:
+- html
+- rss
+- json
 ---
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **

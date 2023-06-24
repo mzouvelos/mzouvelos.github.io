@@ -71,10 +71,18 @@ menu:
       title: About
       url: /
       weight: 1
+    - name: Portfolio
+      title: Portfolio
+      url: /portfolio/
+      weight: 2
     - name: Blog
       title: Blog
       url: /blog/
-      weight: 2
+      weight: 3
+    - name: Search
+      title: Search
+      url: /search/
+      weight: 4
 privacy:
   disqus:
     disable: no

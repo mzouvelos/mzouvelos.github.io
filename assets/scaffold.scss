@@ -6,7 +6,6 @@ $headingFontFamily: {{ site.Params.headingFontFamily | default "sans-serif" }};
 // use custom fonts
 $customtextFontFamily: {{ site.Params.customtextFontFamily | default site.Params.textFontFamily }};
 $customheadingFontFamily: {{ site.Params.customheadingFontFamily | default site.Params.headingFontFamily }};
-$font-path: '{{ "fonts" | relURL }}';
 @import 'custom-fonts';
 
 // base color scheme
@@ -16,7 +15,7 @@ $font-path: '{{ "fonts" | relURL }}';
 // one of: forest / grayscale / peach / plum / poppy / sky / violet / water 
 // precedence: Params.theme > .Params.custom_colors 
 // custom colors may either be named tachyons color or hex codes
-{{ $themes := (slice "earth" "forest" "grayscale" "magma" "paper" "peach" "plum" "poppy" "primer" "sky" "violet" "water") }}
+{{ $themes := (slice "forest" "grayscale" "peach" "plum" "poppy" "sky" "violet" "water") }}
 {{ if site.Params.theme }}
   {{ if in $themes site.Params.theme }}
     @import '{{ printf "theme/%s" site.Params.theme }}';
@@ -71,7 +70,6 @@ h1, h2, h3, h4, h5, h6 {
 .site-brand,
 .site-links a,
 .site-header .social-icon-links a,
-.site-footer .site-copyright a,
 .site-footer .social-icon-links a,
 .page-main a.link {
   @extend .#{$navLinkColor};
@@ -195,7 +193,7 @@ form {
   select,
   [type="text"],
   [type="email"] {
-    @extend .input-reset, .pa3, .mt2, .mb3, .ba, .br0, .b--#{$borderColor}, .bg-transparent, .custom-text-color, .w-100;
+    @extend .input-reset, .pa3, .mt2, .mb3, .ba, .br0, .b--#{$borderColor}, .bg-transparent, .w-100 ;
   }
   [type="button"],
   [type="reset"],
@@ -207,13 +205,13 @@ form {
     @extend .mv2, .mh1 ;
   }
   textarea {
-    @extend .input-reset, .pa3, .mt2, .mb3, .mh0, .lh-copy, .ba, .br0, .b--#{$borderColor}, .bg-transparent, .custom-text-color, .w-100;
+    @extend .input-reset, .pa3, .mt2, .mb3, .mh0, .lh-copy, .ba, .br0, .b--#{$borderColor}, .bg-transparent, .w-100 ;
   }
   select:focus,
   textarea:focus,
   [type="text"]:focus,
   [type="email"]:focus {
-    @extend .bg-custom-sidebar-bg-color
+    @extend .bg-white-50 ;
   }
 }
 
@@ -262,10 +260,10 @@ form {
 }
 .single-sidebar {
   .page-main {
-    grid-column: 1 / 5;
+    grid-column: 2 / 16;
   }
   .page-sidebar {
-    grid-column: 5 / 7;
+    grid-column: 1 / 2;
   }
 }
 .single-series {
@@ -400,6 +398,27 @@ details#PageTableOfContents {
   }
 }
 
+// Series, collections, and blog posts table of contents
+
+details#PageTableOfContents nav#TableOfContents ul li:hover {
+  @extend .bg-#{$siteBgColor};
+}
+
+nav#TableOfContents ul li li,
+nav#SectionTableOfContents ul li,
+nav#SeriesTableOfContents ul li {
+  @extend .pl2, .bl, .bw1, .b--transparent;
+  &.active {
+    @extend .pl3, .bg-#{$siteBgColor}, .bl, .b--#{$borderColor}, .bw1;
+  }
+  &:not(.active) {
+    @extend .pl3, .dim, .bl, .bw1, .b--transparent;
+  }
+  &:hover:not(.active) a {
+    @extend .#{$headlineColor}, .b--#{$borderColor};
+  }
+}
+
 // stickies should make room for headroom to peek down
 .sticky {
   position: -webkit-sticky;
@@ -510,7 +529,7 @@ nav#SectionTableOfContents ul details {
 
 // Style code
 pre {
-  @extend .pre, .br1, .pa3, .bg-transparent, .overflow-x-auto, .overflow-y-hidden;
+  @extend .pre, .br1, .pa3, .bg-transparent;
   border: 1px solid #ebebeb;
 }
 
@@ -522,13 +541,13 @@ html, body {
   scroll-padding-top: 73px;
 }
 
+
 // Fontawesome icons
-$fa-font-path: '{{ "webfonts" | relURL }}';
+$fa-font-path:        "../webfonts";
 @import "fontawesome-free-5.15.1-web/scss/fontawesome.scss";
 @import "fontawesome-free-5.15.1-web/scss/solid.scss";
 @import "fontawesome-free-5.15.1-web/scss/regular.scss";
 @import "fontawesome-free-5.15.1-web/scss/brands.scss";
-@import "academicons/academicons.scss";
 
 // import a custom css file in assets
 @import "custom";
