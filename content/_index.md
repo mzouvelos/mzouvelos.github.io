@@ -3,7 +3,7 @@ show_action_link: true
 action_label: CV
 action_link: 
 action_type: button
-show_action_link2: true2
+show_action_link2: false
 action_label2: Publications
 action_link2: 
 description: "Michalis Zouvelos is a Data Scientist with a focus on Analytics and Machine Learning."
