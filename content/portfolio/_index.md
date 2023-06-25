@@ -1,7 +1,7 @@
 ---
 title: Portfolio
-description: "Overview of academic research and data science projects."
-author: "Nicola Rennie"
+description: "Overview of data science, analytics and machine learning projects."
+author: "Michalis Zouvelos"
 show_post_thumbnail: true
 images:
 - featured.png

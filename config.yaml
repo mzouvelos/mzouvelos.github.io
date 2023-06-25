@@ -52,6 +52,9 @@ params:
     - icon: linkedin
       icon_pack: fab
       url: https://www.linkedin.com/in/michalis-zouvelos-8912371b6/
+    - icon: kaggle
+      icon_pack: fab
+      url: https://www.kaggle.com/michalisz
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif

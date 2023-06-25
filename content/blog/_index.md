@@ -1,8 +1,8 @@
 ---
-author: Nicola Rennie
-description: "Blog about all things R, data science, and visualisation"
+author: Michalis Zouvelos
+description: "Blog about data science, analytics and machine learning"
 cascade:
-  author: Nicola Rennie
+  author: Michalis Zouvelos
   show_author_byline: false
   show_comments: true
   show_post_date: true
