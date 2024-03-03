@@ -1,6 +1,6 @@
 ---
 author: Michalis Zouvelos
-description: "Blog about data science, analytics and machine learning"
+description: "Blog about data science, data engineering, analytics and machine learning"
 cascade:
   author: Michalis Zouvelos
   show_author_byline: false
