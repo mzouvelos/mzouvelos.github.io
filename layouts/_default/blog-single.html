@@ -18,14 +18,16 @@
       <section class="post-body pt5 pb4">
         {{ .Content }}
         <hr>
+        {{ if not (eq .Params.show_attribution false) }}
         <div class="bb">
         <p>For attribution, please cite this work as:</p>
         <blockquote>
           <b>{{ .Title }}</b>. <br>{{ .Params.author }}. {{ .PublishDate.Format "January 2, 2006" }}.<br>
-          <a href="https://nrennie.rbind.io/blog/{{ .Params.slug }}">nrennie.rbind.io/blog/{{ .Params.slug }}</a>
+          <a href="https://mzouvelos.netlify.app/blog/{{ .Params.slug }}">mzouvelos.netlify.app/blog/{{ .Params.slug }}</a>
         </blockquote>
         <p>Licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">creativecommons.org/licenses/by/4.0</a></p>
         </div>
+        {{ end }}
       {{ if .Params.show_comments }}
         {{ partial "shared/comments.html" . }}
       {{ end }}

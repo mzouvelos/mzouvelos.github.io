@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-description: "Overview of data science, data engineering, analytics and machine learning projects."
+description: "Overview of data science, data engineering, analytics and machine learning projects and experience."
 author: "Michalis Zouvelos"
 show_post_thumbnail: true
 images:

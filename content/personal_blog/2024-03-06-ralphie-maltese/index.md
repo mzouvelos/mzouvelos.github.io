@@ -15,7 +15,3 @@ image: ralphie_featured.png
 ---
 
 Back in July 2023, I came to meet Ralphie
-
-<p align="center">
-<img width = "80%" src="https://raw.githubusercontent.com/nrennie/nrennie.rbind.io/main/content/blog/2023-05-12-introducing-ggflowchart/bears.png" alt="a flowchart diagram showing the story of goldilocks and the three bears">
-</p>

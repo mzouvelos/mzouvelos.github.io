@@ -6,7 +6,7 @@ action_type: button
 show_action_link2: false
 action_label2: Publications
 action_link2: 
-description: "Michalis Zouvelos is a Data Analyst currently working for Bol.com, the largest online retailer in the Netherlands. His focus revolves around Data Analytics, Engineering and Machine Learning. Michalis has experience in a wide spectrum of data science, from building pipelines, to data visualization and reporting but also building and deploying machine learning models."
+description: "I am a Data Analyst currently working for Bol.com, the largest online retailer in the Netherlands. My focus revolves around Data Analytics, Data Engineering and Machine Learning. I have experience in a wide spectrum of Data Science workflows, from creating robust data pipelines, to data visualization and automated reporting, as well as, building and deploying machine learning models."
 image_left: false
 images:
 - 

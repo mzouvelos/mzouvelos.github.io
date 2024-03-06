@@ -46,12 +46,12 @@ params:
   orgLocal:
   orgName: Michalis Zouvelos
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/mzouvelos
     - icon: linkedin
       icon_pack: fab
       url: https://www.linkedin.com/in/michalis-zouvelos-8912371b6/
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/mzouvelos
     - icon: kaggle
       icon_pack: fab
       url: https://www.kaggle.com/michalisz
