@@ -78,13 +78,13 @@ menu:
       title: Portfolio
       url: /portfolio/
       weight: 2
-    - name: Blog
-      title: Blog
+    - name: Data Blog
+      title: Data Blog
       url: /blog/
       weight: 3
-    - name: Search
-      title: Search
-      url: /search/
+    - name: Personal Blog
+      title: Personal Blog
+      url: /personal_blog/
       weight: 4
 privacy:
   disqus:
