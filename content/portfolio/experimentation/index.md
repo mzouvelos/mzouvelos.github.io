@@ -19,10 +19,8 @@ I have experience in:
 * Designing data visualisations to communicate results
 * Interpreting results and suggesting future action plans
 
-# here post gt table with results -- control /test variation
-<p align="center">
-<img width="70%" src="https://raw.githubusercontent.com/nrennie/nrennie.rbind.io/main/content/portfolio/consultancy/shiny.png" alt="An (example) screenshot of A/B test reporting">
-</p>
+ here post gt table with results -- control /test variation
+ 
 
 Using experience in best practice..
 

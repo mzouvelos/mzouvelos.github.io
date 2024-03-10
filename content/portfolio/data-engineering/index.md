@@ -14,6 +14,8 @@ links:
 ---
 
 I have developed ETL solutions for databases...
-
+- dbt
+- airflow
+- python
 
 

@@ -14,24 +14,9 @@ image: featured.png
 
 ### Professional Applications
 
-**Binary Classification**. *Data Science Trainer**.
-
-- Introduction to R and Statistical Modelling
-- Advanced Graphics in R
-- Spatial Data Analysis
-- Time Series Analysis
-- Advanced Programming in R
-
-*Presented in a range of teaching formats including 1-1 sessions, large group sessions, and ongoing support.
+- **Revenue time series forecasting**
+- **Ad Inventory forecast**
 
 ### Kaggle Competitions
 
-**ICR-identifying**. *Data Science Trainer**.
-
-- Introduction to R and Statistical Modelling
-- Advanced Graphics in R
-- Spatial Data Analysis
-- Time Series Analysis
-- Advanced Programming in R
-
-*Presented in a range of teaching formats including 1-1 sessions, large group sessions, and ongoing support
+**ICR-identifying**.

@@ -15,9 +15,9 @@ links:
 
 I have developed Tableau Dashboards and R Shiny dashboard applications for different formats of reporting.
 
-## Tableau Dashboards
+### Tableau Dashboards
 
 
-## R Shiny Applications
+### Shiny Applications
 
 
