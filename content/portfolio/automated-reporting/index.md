@@ -3,7 +3,7 @@ title: "Automated Reporting"
 subtitle: ""
 excerpt: "Using Quarto or R Markdown, narrative text can be combined with code to create fully reproducible reports, and automate the reporting process."
 date: 2023-02-07
-author: "Nicola Rennie"
+author: "Michalis Zouvelos"
 draft: false
 categories:
   - Reporting

@@ -6,7 +6,7 @@ action_type: button
 show_action_link2: false
 action_label2: Publications
 action_link2: 
-description: "I am a Data Analyst currently working for Bol.com, the largest online retailer in the Netherlands. My focus revolves around Data Analytics, Data Engineering and Machine Learning. I have experience in a wide spectrum of Data Science workflows, from creating robust data pipelines, to data visualization and automated reporting, as well as, building and deploying machine learning models."
+description: "I am a Data Analyst currently working for bol (bol.com), the largest online retailer in the Netherlands. My focus revolves around Data Analytics, Data Engineering and Machine Learning. I have experience in a wide spectrum of Data Science workflows, from creating robust data pipelines, to data visualization and automated reporting, as well as, building and deploying machine learning models."
 image_left: false
 images: 
 - img/zouvelos_m.jpeg

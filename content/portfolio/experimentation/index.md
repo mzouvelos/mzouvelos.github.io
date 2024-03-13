@@ -4,7 +4,7 @@ subtitle: ""
 excerpt: "My data science A/B experimenting experience includes designing controlled trial experiments and analysing their statistical significance appropriately with both frequentist and bayesian methods"
 date: 2023-02-07
 weight: 3
-author: "Nicola Rennie"
+author: "Michalis Zouvelos"
 draft: false
 categories:
   - Experiment (A/B testing)
