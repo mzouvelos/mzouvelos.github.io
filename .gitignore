@@ -5,3 +5,4 @@
 .httr-oauth
 *.rds
 *.svg
+public/
