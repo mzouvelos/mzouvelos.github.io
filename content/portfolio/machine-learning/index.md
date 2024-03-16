@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 subtitle: ""
-excerpt: "Experience in implementing efficient machine learning models and applications."
+excerpt: "Experience in implementing and deploying efficient machine learning models."
 date: 2023-01-25
 weight: 2
 author: "Michalis Zouvelos"

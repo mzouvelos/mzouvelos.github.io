@@ -1,7 +1,7 @@
 ---
-title: "Dashboards (Tableau, R Shiny)"
+title: "Dashboards (Tableau, R/Python Shiny)"
 subtitle: ""
-excerpt: "Development of Tableau and R Shiny dashboards for reporting and tracking."
+excerpt: "Development of Tableau and code-based dashboards for reporting and continuous insights."
 date: 2023-05-11
 weight: 4
 author: "Michalis Zouvelos"

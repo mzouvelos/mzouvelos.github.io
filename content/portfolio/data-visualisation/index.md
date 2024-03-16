@@ -1,7 +1,7 @@
 ---
 title: "Data Visualisation"
 subtitle: ""
-excerpt: "A selection of my data visualisation work created in R, Python & Tableau."
+excerpt: "Efficient visualization experience for delivering key insights in an informative and easily digestible fashion towards business stakeholders."
 date: 2023-01-25
 weight: 5
 author: "Michalis Zouvelos"

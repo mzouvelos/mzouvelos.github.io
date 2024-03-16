@@ -1,7 +1,7 @@
 ---
-title: "Data Engineering (ETLs)"
+title: "Data Engineering"
 subtitle: ""
-excerpt: "Experience in designing and coding effective ETL's utilising Python, SQL, dbt, docker and orchestration frameworks."
+excerpt: "Experience in designing and coding effective data pipelines utilising dbt, SQL, Python, Airflow, Docker and orchestration frameworks."
 date: 2022-10-01
 weight: 3
 author: "Michalis Zouvelos"
