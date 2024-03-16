@@ -38,63 +38,63 @@ The full list of Countries that will be included for the analysis and the graphs
 📌 **Unemployment rate** : The unemployed are people of working age who are without work, are available for work, and have taken specific steps to find work.
 
 
-<iframe src="/html/2022-02-19_greece_post/unemployment_rate_total.html" height="400px" width="100%" frameborder="0" allowfullscreen></iframe>
+<iframe src="/html/2022-02-19_greece_post/unemployment_rate_total.html" height="400px" width="100%" frameborder="0" allowfullscreen loading="lazy"></iframe>
 
 Development of the unemployment rate metric **over time** for Greece.
 
 <center>
-<IMG SRC="/gif/2022-02-19_greece_post/greece_animation_unemployment_rate.gif">
+<IMG SRC="/gif/2022-02-19_greece_post/greece_animation_unemployment_rate.gif" loading="lazy">
 </center>
 
 📌 **Unemployment rates by education level** : This indicator shows the unemployment rates of people according to their education levels: below upper secondary, upper secondary non-tertiary, or tertiary.
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/unemployment_rate_education_3.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/unemployment_rate_education_3.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 📌 **Long-term unemployment rate** : Long-term unemployment refers to people who have been unemployed for 12 months or more. 
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/unemployment_rate_long_term.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/unemployment_rate_long_term.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 📌 **Employment rate by age group** : The employment rate for a given age group is measured as the number of employed people of a given age as a percentage of the total number of people in that same age group.
 
 <div id="Age Group 15-24" class="tabcontent">
-  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_1.html" height="400px" width="100%" frameborder="0" allowfullscreen></iframe>
+  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_1.html" height="400px" width="100%" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 <div id="Age Group 25-54" class="tabcontent">
-  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_2.html" height="400px" width="100%" frameborder="0" allowfullscreen></iframe>
+  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_2.html" height="400px" width="100%" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 <div id="Age Group 55-64" class="tabcontent">
-  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_3.html" height="400px" width="100%" frameborder="0" allowfullscreen></iframe>
+  <iframe src="/html/2022-02-19_greece_post/employment_rate_age_3.html" height="400px" width="100%" frameborder="0" allowfullscreen loading="lazy"></iframe>
 </div>
 
 
 📌 **Self-employment rate** : Self-employment is defined as the employment of employers, workers who work for themselves, members of producers' co-operatives, and unpaid family workers. 
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/employment_rate_self_total.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/employment_rate_self_total.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 📌 **Hours worked** : Average annual hours worked is defined as the total number of hours actually worked per year divided by the average number of people in employment per year. Actual hours worked include regular work hours of full-time, part-time and part-year workers, paid and unpaid overtime, hours worked in additional jobs, and exclude time not worked because of public holidays, annual paid leave, own illness, injury and temporary disability, maternity leave, parental leave, schooling or training, slack work for technical or economic reasons, strike or labour dispute, bad weather, compensation leave and other reasons. The data cover employees and self-employed workers. This indicator is measured in terms of hours per worker per year.
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/employment_hours_worked.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/employment_hours_worked.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 📌 **GDP per hour worked** : GDP per hour worked is a measure of labour productivity. It measures how efficiently labour input is combined with other factors of production and used in the production process. 
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/prod_gdp_worked.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/prod_gdp_worked.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 📌 **Average wages** : Average wages are obtained by dividing the national-accounts-based total wage bill by the average number of employees in the total economy, which is then multiplied by the ratio of the average usual weekly hours per full-time employee to the average usually weekly hours for all employees. 
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/average_wage.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/average_wage.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 ### Focusing on insight
@@ -102,12 +102,12 @@ According to the OECD available data, the **average wage for Greece** peaked at 
 
 From the countries we are exploring, this is the most considerable decrease in the national average wage, with the second place in most significant decrease going to Spain with a national average wage decrease of 9.45%, from a peak of 41.883 in 2009 to 37.922 USD in 2020. Italy seems to come third with a decrease of 8.3%. Almost all of the other countries considered in the analysis have not seen a decrease in their national average wage from their respective peak. Furthermore, their national average wages are increasing steadily over the years, with most of these countries reaching their peak during 2020, where our available updated data end. This is also the case for Hungary and Slovakia, the only two countries with a smaller national wage average than Greece as of 2020 data. While they have a lower national average wage, their average wages are steadily increasing over the years.
 
-<IMG SRC="/img/2022-02-19_greece_post/unnamed-chunk-1-1.png">
+<IMG SRC="/img/2022-02-19_greece_post/unnamed-chunk-1-1.png" loading="lazy">
 
 📌 **Gross Domestic Product (GDP)** : Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period. As such, it also measures the income earned from that production, or the total amount spent on final goods and services (less imports). While GDP is the single most important indicator to capture economic activity, it falls short of providing a suitable measure of people's material well-being for which alternative indicators may be more appropriate. 
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/gdp.html" height = "400px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/gdp.html" height = "400px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 ## Summary
@@ -115,7 +115,7 @@ From the countries we are exploring, this is the most considerable decrease in t
 A summarized look in table form to get a holistic view of key metrics.
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/gt_all.html" height = "600px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/gt_all.html" height = "600px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -125,7 +125,7 @@ A summarized look in table form to get a holistic view of key metrics.
 On a personal note, from my own experiences and knowledge, the opportunities (limited to none) and the working conditions that exist in Greece are very much indicative of what one would expect from a country with these metrics.
 
 <figure><center>
-<iframe src = "/html/2022-02-19_greece_post/gt_greece.html" height = "515px" width = "100%" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe src = "/html/2022-02-19_greece_post/gt_greece.html" height = "515px" width = "100%" frameborder="0" allowfullscreen loading="lazy">&nbsp;</iframe>
 </center></figure>
 
 However, raw data do not always draw the complete picture of a situation, but a lot of the time is a close imitation of reality.

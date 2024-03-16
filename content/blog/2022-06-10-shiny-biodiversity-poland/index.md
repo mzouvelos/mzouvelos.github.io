@@ -98,7 +98,7 @@ message = function(message) {
 
 Then the popup looks already clean as follows:
 
-<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/popup_window.png">
+<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/popup_window.png" loading="lazy">
 
 The decision to host the app on shinyapps.io is an easy and free solution to showcase an app. shinyapps.io offers a platform where projects, can be shared widely without the need for users to run complex setups locally. Of course the free version comes with limitations but it is still a niche solution to showcase some simple projects like the one displayed on this blogpost.
 
@@ -110,4 +110,4 @@ If you are interested to dive in into more dashboarding with shiny for Python or
 
 Image preview of the app:
 
-<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/preview.png">
+<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/preview.png" loading="lazy">
