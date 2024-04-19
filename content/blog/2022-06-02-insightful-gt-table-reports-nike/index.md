@@ -21,7 +21,7 @@ One of the most widely used approaches to introducing data on time is using tabl
 
 I will use the reasonably new **[gt package](https://gt.rstudio.com/)**, which utilizes the **R** programming language to showcase how you can level up your reports. The gt package allows for some of the most impressive and informational tables. Its basic structure is demonstrated in the image below from the Rstudio’s official page. **Update** - package is now available also in Python **[great tables](https://posit-dev.github.io/great-tables/articles/intro.html)** so you can achieve same results using Python utilizing same logic.
 
-<IMG SRC="/img/2022-06-02_insightful_tables/gt_parts_of_a_table.png" height = "500px" width = "100%" frameborder="0" allowfullscreen loading="lazy">
+<img src="/img/2022-06-02_insightful_tables/gt_parts_of_a_table.png" height = "500px" width = "100%" frameborder="0" allowfullscreen loading="lazy">
 
 To demonstrate some of the package’s capabilities, I will be creating exemplary gt Tables. I will use two publicly available data sets consisting of data from Nike. The first data set contains information about [Nike products from 2020](https://data.world/data-hut/product-data-from-nike), and the second holds data about [Nike’s collaborating factories and locations](https://data.world/makeovermonday/2018w36-the-nike-manufacturing-map).
 
@@ -104,7 +104,7 @@ You can **find the full code** for the factories table in my GitHub repo followi
 
 If you needed to display a large amount of information, you could even create an **endless scrolling page to preview all your information by generating an HTML print text**. You could achieve that by separating the main body from the rest and having discrete HTML elements that you would then merge into a whole HTML element. You can find an example of this approach on this [youtube video](https://www.youtube.com/watch?v=-c_PUee8Cu0) by one of the package’s developers. Below, I am providing a gif of this solution to show you how that would look since this is an HTML element and thus need to be hosted. In this report, all the factories included in the data set are showcased in the scrolling table, hence capturing all the information.
 
-<IMG SRC="/gif/2022-06-02_insightful_tables/html_print.gif" height = "600px" width = "100%" frameborder="0" allowfullscreen loading="lazy">
+<img src="/gif/2022-06-02_insightful_tables/html_print.gif" height = "600px" width = "100%" frameborder="0" allowfullscreen loading="lazy">
 
 You can **find the full code** for the scrolling factories html print in my GitHub repo following this link: **[GitHub repo](https://github.com/mzouvelos/Business_reports_Nike_gt_tables/blob/main/R_Scripts/Nike_FullFactories_gt_html_print.R)**
 

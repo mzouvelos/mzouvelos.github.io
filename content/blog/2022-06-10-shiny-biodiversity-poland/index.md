@@ -98,16 +98,18 @@ message = function(message) {
 
 Then the popup looks already clean as follows:
 
-<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/popup_window.png" loading="lazy">
+<img src="/img/2022-06-10-shiny-biodiversity-poland/popup_window.png" loading="lazy">
 
 The decision to host the app on shinyapps.io is an easy and free solution to showcase an app. shinyapps.io offers a platform where projects, can be shared widely without the need for users to run complex setups locally. Of course the free version comes with limitations but it is still a niche solution to showcase some simple projects like the one displayed on this blogpost.
 
 ### Wrapping up
 
-The development of a simple niche application with few lines of code is always a nice and creative way to use some common Data Science practices like data processing with database connectors like Spark, employing web scraping and utilizing different libraries to provide a beautiful and seamless front-end for informative exploration. You can view the whole code used for the project in my GitHub page following this [link](https://github.com/mzouvelos/Biodiversity_Shiny_Application/tree/main) and visit the app by clicking **[here](https://michalis-zouvelos.shinyapps.io/Poland_Biodiversity/)**.
+The development of a simple niche application with few lines of code is always an enjoyable and creative way to use some common Data Science practices like data processing with database connectors like Spark, employing web scraping and utilizing different libraries to provide a beautiful and seamless front-end for informative exploration. You can view the whole code used for the project in my GitHub page following this [link](https://github.com/mzouvelos/Biodiversity_Shiny_Application/tree/main) and visit the app by clicking **[here](https://michalis-zouvelos.shinyapps.io/Poland_Biodiversity/)** or directly on the image below.
+
+**Image preview of the app:**
+
+<a href="https://michalis-zouvelos.shinyapps.io/Poland_Biodiversity/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/2022-06-10-shiny-biodiversity-poland/preview.png" alt="Shiny App Preview" loading="lazy">
+</a>
 
 If you are interested to dive in into more dashboarding with shiny for Python or R there are many more examples, simple and more complex. You can find some in the official galleries [R shiny gallery link](https://shiny.posit.co/r/gallery/) and [Python shiny gallery link](https://shiny.posit.co/py/gallery/).
-
-Image preview of the app:
-
-<IMG SRC="/img/2022-06-10-shiny-biodiversity-poland/preview.png" loading="lazy">

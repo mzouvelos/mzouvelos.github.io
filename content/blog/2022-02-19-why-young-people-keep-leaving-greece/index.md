@@ -43,7 +43,7 @@ The full list of Countries that will be included for the analysis and the graphs
 Development of the unemployment rate metric **over time** for Greece.
 
 <center>
-<IMG SRC="/gif/2022-02-19_greece_post/greece_animation_unemployment_rate.gif" loading="lazy">
+<img src="/gif/2022-02-19_greece_post/greece_animation_unemployment_rate.gif" loading="lazy">
 </center>
 
 📌 **Unemployment rates by education level** : This indicator shows the unemployment rates of people according to their education levels: below upper secondary, upper secondary non-tertiary, or tertiary.
@@ -102,7 +102,7 @@ According to the OECD available data, the **average wage for Greece** peaked at 
 
 From the countries we are exploring, this is the most considerable decrease in the national average wage, with the second place in most significant decrease going to Spain with a national average wage decrease of 9.45%, from a peak of 41.883 in 2009 to 37.922 USD in 2020. Italy seems to come third with a decrease of 8.3%. Almost all of the other countries considered in the analysis have not seen a decrease in their national average wage from their respective peak. Furthermore, their national average wages are increasing steadily over the years, with most of these countries reaching their peak during 2020, where our available updated data end. This is also the case for Hungary and Slovakia, the only two countries with a smaller national wage average than Greece as of 2020 data. While they have a lower national average wage, their average wages are steadily increasing over the years.
 
-<IMG SRC="/img/2022-02-19_greece_post/unnamed-chunk-1-1.png" loading="lazy">
+<img src="/img/2022-02-19_greece_post/unnamed-chunk-1-1.png" loading="lazy">
 
 📌 **Gross Domestic Product (GDP)** : Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period. As such, it also measures the income earned from that production, or the total amount spent on final goods and services (less imports). While GDP is the single most important indicator to capture economic activity, it falls short of providing a suitable measure of people's material well-being for which alternative indicators may be more appropriate. 
 
