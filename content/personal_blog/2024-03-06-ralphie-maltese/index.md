@@ -82,7 +82,7 @@ Ralphie is usually the smaller dog in the park and during playtime (as you can s
 
 ## Already 1 year old
 
-Ralphie's had his first birthday on April 1st, 2024 🥳!
+Ralphie had his first birthday on April 1st, 2024 🥳!
 
 It has been an awesome first year with Ralphie! From first meeting him and getting to know each other, getting tired from the puppyhood craziness and training, to seeing Ralphie grow (to an amazing HUGE 4,5 kgs!) and being our best friend!
 
