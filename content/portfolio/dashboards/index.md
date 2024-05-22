@@ -13,11 +13,11 @@ image: featured.png
 links:
 ---
 
-I have developed Tableau Dashboards and R Shiny dashboard applications for different formats of reporting.
+ I have experience in developing dashboards using different approaches and always following the main elements of efficient dashboard design and data visualization to accomodate reporting needs and tracking of KPI's.
 
-### Tableau Dashboards
+ I have developed a significant amount of dashboards with dashboarding tools like Tableau but also in coding formats using frameworks like Shiny and Streamlit. 
 
+**Examples:**
+- Simple application of an R Shiny map-based dashboard - [link to post](https://mzouvelos.github.io/blog/shiny-dashboards/)
 
-### Shiny Applications
-
-
+More to follow!

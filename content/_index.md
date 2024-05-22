@@ -1,5 +1,5 @@
 ---
-show_action_link: true
+show_action_link: false
 action_label: CV
 action_link: 
 action_type: button

@@ -12,11 +12,18 @@ layout: single
 image: featured.png
 ---
 
+I have experience in both professional and non-professional formats of applying machine learning models, supporting the whole process, from conception to deployment.
+
+I have developed both classification and regression models, as well as, time series based forecasting. Following some examples:
+
 ### Professional Applications
 
-- **Revenue time series forecasting**
-- **Ad Inventory forecast**
+- Revenue Forecasting Model
+- Ad Inventory Forecast
+- Forum Text Classification
 
 ### Kaggle Competitions
 
-**ICR-identifying**.
+- ICR - Identifying Age-Related Conditions (top 30%)
+
+Posts upon machine learning will follow in the upcoming future!

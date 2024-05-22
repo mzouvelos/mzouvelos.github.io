@@ -13,17 +13,14 @@ image: featured.png
 ---
 
 
-I am conducting data analysis in ... 
+I have experience in conducting a wide range of Data Analysis and presenting the insights in many formats ranging from reports in PDF or HTML formats, dashboards through tools or code and presentations.
 
-## Post Examples
+I have completed several analysis as example:
 
-<!-- #### Data Analysis -->
+- Exploratory Analysis
+- Financial Analysis
+- Various correlation and statistical analysis to unveil relationships and effects
 
-**M. Zouvelos** <br>
+and more.
 
-<!-- ####  -->
-
-
-
-
-
+Examples of analysis and reports will be added in the upcoming future!

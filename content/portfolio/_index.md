@@ -14,3 +14,7 @@ cascade:
   show_post_date: false
   show_comments: false
 ---
+
+I have experience in development of time series forecasting applications from simple linear regressions to more advanced and complex ensemble methods, as well as, utilization of autoML solutions.
+
+Posts to follow!

@@ -12,15 +12,11 @@ layout: single
 image: featured.png
 ---
 
-I have experience in:
+I have experience in the whole process of designing and analyzing A/B experiments in a product based format to  ensure integrity of the experiment procedure and assess the statistical effect.
 
-* Designing controlled trial A/B experiments
-* Analysing results with appropriate statistical methods
-* Designing data visualisations to communicate results
-* Interpreting results and suggesting future action plans
-
- here post gt table with results -- control /test variation
+- Designing controlled trial A/B experiments
+- Analysing results with appropriate statistical methods
+- Designing data visualisations and creating reports to communicate results and uplift
+- Interpreting results and suggesting future action plans and potential next step experiments as an iterative process
  
-
-Using experience in best practice..
-
+Example post to follow!

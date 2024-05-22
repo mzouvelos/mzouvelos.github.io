@@ -13,9 +13,14 @@ image: featured.png
 links:
 ---
 
-I have developed ETL solutions for databases...
-- dbt
-- airflow
-- python
+I have developed ETL solutions and created a large amount of efficient and robust data pipelines. 
 
+I have professional experience using the following toolkit for data engineering based tasks: 
+- [dbt](https://www.getdbt.com/)
+- [Jinja](https://jinja.palletsprojects.com/en/3.1.x/templates/#macros)
+- [Apache Airflow](https://airflow.apache.org/)
+- [Gitlab (CI/CD)](https://docs.gitlab.com/ee/ci/pipelines/)
+- [git](https://git-scm.com/)
+- [BigQuery - GCP](https://cloud.google.com/)
+- [Python](https://www.python.org/)
 
